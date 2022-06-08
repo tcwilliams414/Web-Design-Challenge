@@ -1,5 +1,4 @@
 
-[Link to Web Design Project ](file:///C:/Users/tcwil/OneDrive/Desktop/Homework/Web-Design-Challenge/index.html)
 
 # Unit 11 Homework: Web Visualization Dashboard 
 
