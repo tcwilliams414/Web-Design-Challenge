@@ -1,0 +1,63 @@
+.navbar-brand {
+    font-size: 40px;
+    font-weight:bold;
+    background: darkcyan;
+    color:azure;
+}
+
+
+.navbar-nav {
+margin-left: auto;
+}
+
+h1 {
+    color: darkcyan;
+    font-size: 40px;
+    font-weight:bold;
+    text-align:center;
+    }
+h2 {
+color: darkcyan;
+font-size: 30px;
+font-weight:bold;
+text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .paragraph {
+      text-align: center;
+      margin-left: 50px;
+     
+  }
+  h3 {
+    color: darkcyan;
+    font-size: 30px;
+    font-weight:bold;
+    text-align: left;
+    padding: 20px;
+    }
+   
+.table {
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
